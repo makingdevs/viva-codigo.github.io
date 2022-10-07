@@ -5,7 +5,6 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
 ---
  <h4>Esta vez en la entrega de Vivecodigo les presentamos nuevamente un coding dojo, en el cual se desarrollo un juego llamada code breaker con algunos destacados invitados.</h4>
 

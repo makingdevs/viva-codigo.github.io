@@ -5,7 +5,6 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
 ---
 
 <h4>Bienvenidos sean a esta nueva emisión del podcast el episodio numero 6 de la temporada numero 1.</h4>

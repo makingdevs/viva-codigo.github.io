@@ -6,7 +6,6 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
 ---
 
 <h4>Bienvenidos sean, regresamos con ustedes después de las  pasadas fiestas, iniciando un año nuevo con nuevas publicaciones y sorpresas para ustedes. Esta nueva emisión del podcast el episodio numero 7 de la temporada numero 1.</h4>

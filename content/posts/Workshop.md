@@ -5,7 +5,6 @@ draft: true
 toc: false
 images:
 tags:
-  - untagged
 ---
 
 <h4>Bienvenidos sean a otra emisión de su podcast favorito vivecodigo.org Workshop de VIm</h4>
