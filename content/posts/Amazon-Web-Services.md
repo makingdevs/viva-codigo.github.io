@@ -18,5 +18,5 @@ tags:
 
 ![](http://vivecodigo.org/images/dos.jpg)
 
-<iframe src="https://player.vimeo.com/video/132557815" width="800" height="405" frameborder="0"></iframe>
-<iframe src="https://player.vimeo.com/video/132551768" width="800" height="405" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/132557815" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/132551768" width="760" height="450" frameborder="0"></iframe>

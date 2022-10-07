@@ -30,7 +30,7 @@ En esta ocasión les tenemos una sorpresa para todos nuestros seguidores. Son do
 
 Un entrevista sin duda muy interesante que no se pueden perder.
 
-<iframe src="https://player.vimeo.com/video/87502624?h=361f045c27" width="800" height="405" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/87502624?h=361f045c27" width="760" height="450" frameborder="0"></iframe>
 
 <a style="color:#3eb0ef;" href="https://vimeo.com/" target="_blank"> ViveCodigo 01x10 - Practical Data Analysis con Hector Cuesta (@hmcuesta) from MakingDevs on Vimeo.
 
