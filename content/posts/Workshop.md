@@ -1,6 +1,6 @@
 ---
 title: "ViveCodigo - Workshop De VIm Con Felipe Juarez @Sohjiro"
-date: 2022-10-06T16:58:23-05:00
+date: 2015-03-03T16:58:23-05:00
 draft: true
 toc: false
 images:

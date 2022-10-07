@@ -1,6 +1,6 @@
 ---
 title: "Episodio 11 De La Temporada 1 – Hector Zarate @iOSCowboy."
-date: 2022-10-06T19:20:12-05:00
+date: 2014-03-26T19:20:12-05:00
 draft: true
 toc: false
 images:

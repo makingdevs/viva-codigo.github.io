@@ -1,6 +1,6 @@
 ---
 title: "ViveCodigo – Amazon Web Services Con Fernando Maza Bizarro @Fer_Maza_B"
-date: 2022-10-05T18:41:57-05:00
+date: 2015-07-07T18:41:57-05:00
 draft: true
 toc: false
 images:
