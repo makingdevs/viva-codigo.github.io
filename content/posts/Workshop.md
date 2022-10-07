@@ -23,4 +23,4 @@ tags:
 
 <iframe src="https://player.vimeo.com/video/121086353?h=e2adc62963" width="720" height="405" frameborder="0"></iframe>
 
-<a href="https://vimeo.com/121086353" target="_blank">ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro from MakingDevs on Vimeo </a>
+<a style="color: #3eb0ef;" href="https://vimeo.com/121086353" target="_blank">ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro from MakingDevs on Vimeo </a>
