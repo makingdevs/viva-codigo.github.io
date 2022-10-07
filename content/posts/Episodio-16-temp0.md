@@ -7,7 +7,7 @@ images:
 tags:
 ---
 
-<h4>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.</h1>
+<h4>Bienvenidos sean a este nuevo episodio de ViveCodigo, casi estamos por cerrar nuestra primera temporada y queremos darles otra perspectiva del podcast.</h4>
 
 <iframe src="https://player.vimeo.com/video/39522331?h=b061de9f5c" width="760" height="450" frameborder="0"></iframe>
 
