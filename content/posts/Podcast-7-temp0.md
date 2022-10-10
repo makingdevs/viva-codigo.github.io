@@ -25,4 +25,4 @@ Y como siempre, aquí están los archivos para su descarga:
 
 Disfrutenlo tanto como nosotros…
 
-Saludos
+Saludos.
