@@ -9,7 +9,7 @@ tags:
 
 <h4>Sólo el audio:</h4>
 
-+ <a href="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" style="color:#3eb0ef;"> Audio </a>
++ <a target="_blank" href="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" style="color:#3eb0ef;"> Audio </a>
 
 Después de un largo tiempo y en vísperas de la reunión de la comunidad de SpringHispanor y GrailsMX, tenemos el gusto de presentarles esta emisión del podcast en donde entrevistamos a Andrés Almiray, Java Champion mexicano y líder del proyecto Griffon.
 

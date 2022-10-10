@@ -17,13 +17,13 @@ En esta ocasión cambiamos la actividad de nuestro podcast, en este episodio dej
 
 Agradecemos la presencia de:
 
-+ <a href="https://twitter.com/java_daba_doo" style="color:#3eb0ef;">@java_daba_doo</a> - Gerardo Aquino
++ <a target="_blank" href="https://twitter.com/java_daba_doo" style="color:#3eb0ef;">@java_daba_doo</a> - Gerardo Aquino
 
-+ <a href="https://twitter.com/MachinesAreUs" style="color:#3eb0ef;">@MachinesAreUs</a> - Agustín Ramos
++ <a target="_blank" href="https://twitter.com/MachinesAreUs" style="color:#3eb0ef;">@MachinesAreUs</a> - Agustín Ramos
 
-+ <a href="https://twitter.com/tgrip" style="color:#3eb0ef;">@tgrip</a> - Theo Grip
++ <a target="_blank" href="https://twitter.com/tgrip" style="color:#3eb0ef;">@tgrip</a> - Theo Grip
 
-+ <a href="https://twitter.com/linuxtro" style="color:#3eb0ef;">@linuxtro</a> - Juan Francisco
++ <a target="_blank" href="https://twitter.com/linuxtro" style="color:#3eb0ef;">@linuxtro</a> - Juan Francisco
 
 Les dejamos algunas de las ligas utilizadas para del Coding Dojo:
 

@@ -19,13 +19,13 @@ En el screencast nos muestra LUA, un lenguaje alternativo para desarrollar en An
 
 Si sólo desean escuchar el audio pueden usar este widget:
 
-+ <a href="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" style="color:#3eb0ef;"> Widget </a>
++ <a target="_blank" href="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" style="color:#3eb0ef;"> Widget </a>
 
 Y como siempre, aquí están los archivos para su descarga:
 
 + Entrevista con Enrique Díaz
 + Screencast de Android
-+ <a href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_a.mp3" style="color:#3eb0ef;"> Llevatelo en tu reproductor de MP3</a>
++ <a target="_blank" href="http://s3.amazonaws.com/media.vivecodigo.org/podcast/temporada0/ViveCodigo00x08_a.mp3" style="color:#3eb0ef;"> Llevatelo en tu reproductor de MP3</a>
 
 Gracias por vernos y/o escucharnos
 
