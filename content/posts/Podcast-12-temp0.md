@@ -18,36 +18,35 @@ Queremos agradecer a los asistentes al Dojo por su participación y por sus resu
 
 <iframe src="https://player.vimeo.com/video/35698652?h=de8cb72a35" width="760" height="450" frameborder="0"></iframe>
 
-+ Theo Grip - <a href="https://twitter.com/tgrip" style="color:#3eb0ef;">@tgrip</a> - https://github.com/tgrip/CodingKata
++ Theo Grip - <a target="_blank" href="https://twitter.com/tgrip" style="color:#3eb0ef;">@tgrip</a> - <a target="_blank" href="https://github.com/tgrip/CodingKata" style="color:#3eb0ef;"> CodingKata </a>
 
-+ Joan Alonso - <a href="https://twitter.com/jmalonsos" style="color:#3eb0ef;">@jmalonsos</a>
++ Joan Alonso - <a target="_blank" href="https://twitter.com/jmalonsos" style="color:#3eb0ef;">@jmalonsos</a>
 
-+ Omar Bautista - <a href="https://twitter.com/joxebus" style="color:#3eb0ef;">@joxebus</a>
++ Omar Bautista - <a target="_blank" href="https://twitter.com/joxebus" style="color:#3eb0ef;">@joxebus</a>
 
-+ Gerardo Aquino - <a href="https://twitter.com/java_daba_doo" style="color:#3eb0ef;">@java_daba_doo</a> - https://github.com/javadabadoo/CodingDojo
++ Gerardo Aquino - <a target="_blank" href="https://twitter.com/java_daba_doo" style="color:#3eb0ef;">@java_daba_doo</a> - <a target="_blank" href="https://github.com/javadabadoo/CodingDojo" style="color:#3eb0ef;">CodingDojo</a>
 
-+ Antonio Sandoval - <a href="https://twitter.com/__arch3r" style="color:#3eb0ef;">@__arch3r</a>
++ Antonio Sandoval - <a target="_blank" href="https://twitter.com/__arch3r" style="color:#3eb0ef;">@__arch3r</a>
 
-+ Javier Ramírez - <a href="https://twitter.com/_benek" style="color:#3eb0ef;">@_benek</a> - https://github.com/benek/CodingDojo2
++ Javier Ramírez - <a target="_blank" href="https://twitter.com/_benek" style="color:#3eb0ef;">@_benek</a> - <a target="_blank" href="https://github.com/benek/CodingDojo2" style="color:#3eb0ef;">CodingDojo2</a>
 
-+ RodrigoSalado - <a href="https://twitter.com/rodrigo_salado" style="color:#3eb0ef;">@rodrigo_salado</a> - 
++ RodrigoSalado - <a target="_blank" href="https://twitter.com/rodrigo_salado" style="color:#3eb0ef;">@rodrigo_salado</a> - <a target="_blank" href="http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2" style="color:#3eb0ef;">coding_dojo_2</a>
 
->http://www.javamexico.org/blogs/rodrigo_salado_anaya/coding_dojo_2
-
-+ Alfredo Chávez - <a href="https://twitter.com/alfredochv" style="color:#3eb0ef;">@alfredochv</a>
++ Alfredo Chávez - <a target="_blank" href="https://twitter.com/alfredochv" style="color:#3eb0ef;">@alfredochv</a>
 
 + Ejercicio #7 del proyecto Euler:
 
->Implementación: https://gist.github.com/1623748
->Pruebas unitarias: https://gist.github.com/1623754
+>Implementación: <a target="_blank" href="https://gist.github.com/1623748" style="color:#3eb0ef;"> gist.github.com/1623748 </a>
+
+>Pruebas unitarias: <a target="_blank" href="https://gist.github.com/1623754" style="color:#3eb0ef;">gist.github.com/1623754 </a>
 
 + Coding Kata "Roman Numerals":
 
->Versión inicial, sin refactorizar: https://gist.github.com/1623830
+>Versión inicial, sin refactorizar: <a target="_blank" href="https://gist.github.com/1623830" style="color:#3eb0ef;">gist.github.com/1623830</a>
 
->Versión refactorizada para hacer el código más explícito (esta es la que vieron en el proyector): https://gist.github.com/1623819
+>Versión refactorizada para hacer el código más explícito (esta es la que vieron en el proyector): <a target="_blank" href="https://gist.github.com/1623819" style="color:#3eb0ef;">gist.github.com/1623819 </a>
 
->Pruebas unitarias: https://gist.github.com/1623958
+>Pruebas unitarias: <a target="_blank" href="https://gist.github.com/1623958" style="color:#3eb0ef;">gist.github.com/1623958 </a>
 
 Adicionalmente nos gustaría compartir con ustedes algunos comentarios hechos dentro y fuera del Dojo que consideramos aportan valor a quienes quieren ser mejores desarrolladores:
 
