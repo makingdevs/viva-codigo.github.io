@@ -29,6 +29,7 @@ Si desean descargar los videos y el audio, los dejamos a su disposición:
 
 Adicionalmente, dejamos las urls que se comentaron durante la charla:
 
-http://www.xqual.com/
-http://blog.testlink.org/
++ http://www.xqual.com/
++ http://blog.testlink.org/
+
 Recuerden que Testing es "ejercitar su software"...
