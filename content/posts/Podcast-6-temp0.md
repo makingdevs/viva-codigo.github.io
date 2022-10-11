@@ -1,6 +1,6 @@
 ---
 title: "Podcast 6 de la temporada 0"
-date: 2011-06-15T15:12:50-05:00
+date: 2011-07-15T15:12:50-05:00
 draft: true
 toc: false
 images:
