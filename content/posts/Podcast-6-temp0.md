@@ -11,11 +11,11 @@ tags:
 
 En esta ocasión nos complace presentarles a Daniel Zavala(@Siedrix) que nos estará hablando de Node.JS un framework Javascript para desarrollo del lado servidor. A través de la entrevista, el aclara muchos puntos acerca del modelo de programación, y profundiza en la gran utilidad que tiene el usar este tipo de herramientas, además, nos comparte su experiencia en el conjunto de tecnologías que podemos encontrar para usar Javascript y nos platica acerca de su experiencia en México como desarrollador especialista en el tema.
 
-<iframe src="https://player.vimeo.com/video/26493350?h=34883b3cae" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/26493350?h=34883b3cae" width="460" height="360" frameborder="0"></iframe>
 
 En el screencast nos muestra un poco del lenguaje para desarrollar sobre Node.JS y nos hace una demo para la lectura de archivos simultáneos de forma asíncrona.
 
-<iframe src="https://player.vimeo.com/video/26496629?h=5ca36fd1d1" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/26496629?h=5ca36fd1d1" width="460" height="360" frameborder="0"></iframe>
 
 Adicionalmente, les dejamos los archivos para su descarga.
 

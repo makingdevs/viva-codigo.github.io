@@ -30,6 +30,6 @@ O si lo prefieren al feed del podcast de audio o en iTunes como:ViveCodigo.org -
 
 Un entrevista sin duda muy interesante que no se pueden perder.
 
-<iframe src="https://player.vimeo.com/video/90047678?h=1d382254dd" width="760" height="450" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/90047678?h=1d382254dd" width="460" height="360" allowfullscreen="" frameborder="0"></iframe>
 
 <a style="color: #3eb0ef;" href="https://vimeo.com/90047678" target="_blank"> ViveCodigo 01x11 - Desarrollo y distribución de aplicaciones moviles con Hector Zarate (@iOSCowboy) from MakingDevs on Vimeo.</a>

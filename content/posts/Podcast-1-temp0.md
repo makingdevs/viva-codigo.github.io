@@ -55,4 +55,4 @@ Adicionalmente pueden seguirnos en twitter con el usuario <a target="_blank" hre
 
 Make code… not war…
 
-<iframe src="https://player.vimeo.com/video/23301206?h=a504a034c8" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/23301206?h=a504a034c8" width="460" height="360" frameborder="0"></iframe>

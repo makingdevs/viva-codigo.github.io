@@ -15,11 +15,11 @@ Posteriormente nos platica de Elixir, un lenguaje de programación basado en Erl
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01 y esperen las sorpresas que ViveCodigo nos traerá.
 
-<iframe src="https://player.vimeo.com/video/71478527?h=0350769dc4" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/71478527?h=0350769dc4" width="460" height="360" frameborder="0"></iframe>
 
 Segunda Parte:
 
-<iframe src="https://player.vimeo.com/video/71536087?h=2c5a98c28d" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/71536087?h=2c5a98c28d" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/71536087" target="_blank" style="color:#3eb0ef;"> ViveCodigo 00x01 - Elixir from MakingDevs on Vimeo.</a>
 
 Ligas que nos proporciono Norberto Ortigoza sobre Elixir:

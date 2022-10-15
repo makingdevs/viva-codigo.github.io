@@ -13,7 +13,7 @@ Hola nuevamente a toda la comunidad de ViveCodigo.org y desarrolladores recién 
 
 En esta ocasión cambiamos la actividad de nuestro podcast, en este episodio dejamos de lado las entrevistas para dar paso a un Coding Dojo, en donde, invitamos a algunos desarrolladores a participar en la resolución de algunas Coding Katas, los conceptos del Dojo y su desarrollo lo podrás encontrar en este episodio.
 
-<iframe src="https://player.vimeo.com/video/34008369?h=e74f0ce81f" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/34008369?h=e74f0ce81f" width="460" height="360" frameborder="0"></iframe>
 
 Agradecemos la presencia de:
 

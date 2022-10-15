@@ -13,11 +13,11 @@ Nos complace entregarles la quinta emisión del podcast en donde el tema princip
 
 Como invitado tenemos a Christian Ramírez(@chrix2) QA Architect en Certum, durante el podcast hablamos del ecosistema de Testing, desde conceptos básicos como las características de las pruebas hasta elementos que Christian usa en su trabajo diario como Cloud Testing. En el screencast Christian nos muestra como ejecutar pruebas con Selenium y Python, en su ambiente de desarrollo local y en la nube.
 
-<iframe src="https://player.vimeo.com/video/25154668?h=7069c11fc2" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/25154668?h=7069c11fc2" width="460" height="360" frameborder="0"></iframe>
 
 La entrega del segundo episodio:
 
-<iframe src="https://player.vimeo.com/video/25191502?h=d692b4dc3c" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/25191502?h=d692b4dc3c" width="460" height="360" frameborder="0"></iframe>
 
 Para que recibas los episodios de ViveCodigo solo basta con que te suscribas al feed...
 

@@ -11,6 +11,6 @@ tags:
 
 Aquí el video y toda la información desde el blog de SynergyJ.com
 
-<iframe src="https://player.vimeo.com/video/38128211?h=7e7ff9005b" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/38128211?h=7e7ff9005b" width="460" height="360" frameborder="0"></iframe>
 
 Que lo disfruten como nosotros…

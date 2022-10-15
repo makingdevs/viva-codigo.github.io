@@ -16,7 +16,7 @@ Un video sin duda muy entretenido y con elementos enriquecedores.
 
 Espero disfruten este contenido. Sigan enviándonos sus comentarios tambien nos pueden seguir en nuestro feed de vivecodigo.org.
 
-<iframe src="https://player.vimeo.com/video/77982880?h=d1f07019a1" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/77982880?h=d1f07019a1" width="460" height="360" frameborder="0"></iframe>
 
 <a href="https://vimeo.com/77982880" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x05 - Coding Dojo (Codebreak) from MakingDevs on Vimeo. </a>
 

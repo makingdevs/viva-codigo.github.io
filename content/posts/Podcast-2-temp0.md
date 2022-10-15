@@ -13,9 +13,9 @@ Me es grato anunciarles que ya tenemos publicado esta nueva edición del podcast
 
 En esta ocasión, por la duración del podcast hemos puesto el episodio en dos partes…
 
-<iframe src="https://player.vimeo.com/video/23895985?h=3e89b7f262" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/23895985?h=3e89b7f262" width="460" height="360" frameborder="0"></iframe>
 
-<iframe src="https://player.vimeo.com/video/23964525?h=0be6214665" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/23964525?h=0be6214665" width="460" height="360" frameborder="0"></iframe>
 
 Les dejamos las ligas que se comentaron en la charla y en el videocast:
 

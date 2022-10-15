@@ -25,7 +25,7 @@ La profesión de desarrollo de software  toma un nuevo carácter conforme el tie
 
 Un entrevista sin duda muy interesante que no se pueden perder.
 
-<iframe src="https://player.vimeo.com/video/85257893?h=0314830cc6" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/85257893?h=0314830cc6" width="460" height="360" frameborder="0"></iframe>
 
-<iframe src="https://player.vimeo.com/video/85265342?h=af995cda89" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/85265342?h=af995cda89" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/85257893" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x08 Profesionalización del Desarrollador de Software con Alfredo Chavez (@alfredochv) from MakingDevs on Vimeo. </a>

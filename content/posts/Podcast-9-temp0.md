@@ -17,7 +17,7 @@ En esta ocasión Andrés nos platica de su experiencia desarrollando el framewor
 
 En verdad fue un momento muy agradable para nosotros platicar con Andrés y esperemos que ustedes también lo disfruten.
 
-<iframe src="https://player.vimeo.com/video/32827954?h=82a9221799" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/32827954?h=82a9221799" width="460" height="360" frameborder="0"></iframe>
 
 Les dejamos algunas ligas que nos compartió Andrés:
 

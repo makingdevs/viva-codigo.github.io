@@ -17,17 +17,17 @@ Disfruten esta amena entrevista sobre  Ceylon, un lenguaje que corre sobre la JV
 
 Primera parte de la entrevista:
 
-<iframe src="https://player.vimeo.com/video/72417851?h=a93864f974" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/72417851?h=a93864f974" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/72417851" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x01 - Ceylon con Enrique Zamudio from MakingDevs on Vimeo.</a>
 
 Segunda parte de la entrevista:
 
-<iframe src="https://player.vimeo.com/video/72448505?h=4792ec3d31" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/72448505?h=4792ec3d31" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/72448505" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x01 - Ceylon Demo from MakingDevs on Vimeo.</a>
 
 Atras de cameras en ViveCodigo.org:
 
-<iframe src="https://player.vimeo.com/video/72819280?h=e40dcffcc5" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/72819280?h=e40dcffcc5" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/72819280" target="_blank" style="color:#3eb0ef;"> Ceylon AtrasDeCamaras from MakingDevs on Vimeo.</a>
 
  >Se pueden suscribir al feed de ViveCodigo.org o encontrarnos en iTunes como: <a style="color:#3eb0ef;" href="https://podcasts.apple.com/ca/podcast/vivecodigo-org-videocast/id685052596" target="_blank"> ViveCodigo.org - VideoCast.</a>

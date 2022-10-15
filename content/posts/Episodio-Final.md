@@ -17,4 +17,4 @@ Sin lugar a dudas nos divertimos, sufrimos, compartimos, creamos, innovamos, en 
 
 Que lo disfruten:
 
-<iframe src="https://player.vimeo.com/video/41325296?h=423a517d9b" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/41325296?h=423a517d9b" width="460" height="360" frameborder="0"></iframe>

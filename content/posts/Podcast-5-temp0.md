@@ -11,11 +11,11 @@ tags:
 
 Nos da mucho gusto compartir con todos ustedes el tema de iOS, a través de la voz de Juan Karam(@JuanKaram), quién es el más experimentado desarrollador en esta plataforma; a lo largo de esta charla, Juan nos platica su experiencia de una forma muy amena, nos ofrece una opinión muy valiosa para quienes quieren adoptar el lenguaje sobre el cual se desarrolla, hace algunas recomendaciones para todos los desarrolladores independiente de sus herramientas de trabajo, y profundiza en su tema favorito.
 
-<iframe src="https://player.vimeo.com/video/25886742?h=1364f4fbcd" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/25886742?h=1364f4fbcd" width="460" height="360" frameborder="0"></iframe>
 
 En el screencast nos muestra un poco del lenguaje para desarrollar sobre la plataforma iOS y nos hace una demo de realidad aumenta + geolocalización sobre un iPhone.
 
-<iframe src="https://player.vimeo.com/video/25922093?h=d252e9b406" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/25922093?h=d252e9b406" width="460" height="360" frameborder="0"></iframe>
 
 Adicionalmente, les dejamos los archivos para su descarga.
 

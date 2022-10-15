@@ -13,7 +13,7 @@ En esta ocasión tenemos el honor de entrevistar Laurent Sansonetti - @lrz quien
 
 Laurent Sansonetti, es fundador de HipByte y desarrollador principal de RubyMotion. Trabajó en Apple durante 7 años como ingeniero senior de software, tanto en iLife y OS X. A trabajado con Ruby mucho tiempo, creó y mantiene el proyecto MacRuby. Tiempo atrás, trabajó en IDA Pro y fue un activo colaborador RubyCocoa y GNOME.
 
-<iframe src="https://player.vimeo.com/video/81020270?h=4cb4149d38" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/81020270?h=4cb4149d38" width="460" height="360" frameborder="0"></iframe>
 
 <a style="color:#3eb0ef;" href="https://vimeo.com/81020270" target="_blank"> ViveCodigo 01x06 - RubyMotion con Laurent Sansonetti (@lrz) from MakingDevs on Vimeo.</a>
 

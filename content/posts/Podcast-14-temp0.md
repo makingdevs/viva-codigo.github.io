@@ -12,7 +12,7 @@ tags:
 
 A lo largo de la entrevista, Agustín nos devela el verdadero sentido y concepto de la Artesanía, describe por que es importante conocerla y también profundiza en temas que la abarcan; nos comparte su experiencia al difundirla y como es que nosotros podemos percibirla.
 
-<iframe src="https://player.vimeo.com/video/37228434?h=3577f26894" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/37228434?h=3577f26894" width="460" height="360" frameborder="0"></iframe>
 
 Durante la entrevista se hacen algunas recomendaciones para los desarrolladores, así como, algunas lecturas a las que hacemos referencia:
 

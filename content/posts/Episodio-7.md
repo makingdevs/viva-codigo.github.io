@@ -18,7 +18,7 @@ Un entrevista sin duda muy interesante que no se pueden perder.
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
 
-<iframe src="https://player.vimeo.com/video/84082319?h=7cc2b1d90d" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/84082319?h=7cc2b1d90d" width="460" height="360" frameborder="0"></iframe>
 
 <a href="https://vimeo.com/" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x07 - Sesgos Cognitivos con Sergio Díaz (@sergiodnila) from MakingDevs on Vimeo. </a>
 

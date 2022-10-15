@@ -13,7 +13,7 @@ Previo a nuestra actividad entramos en una charla muy amena, al respecto de la a
 
 Y en esta ocasión estamos presentando nuestro tercer #CodingDojo, en donde, de la mano de respetables desarrolladores tratamos de resolver una Kata de nombre: LCD Numbers.
 
-<iframe src="https://player.vimeo.com/video/38532924?h=063871be1e" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/38532924?h=063871be1e" width="460" height="360" frameborder="0"></iframe>
 
 Esta Kata consiste en crear una función que me permita convertir un número entre el 0 y el 9 a su representación en LCD, sin embargo, el acercamiento que se le debe hace a este ejercicio es mediante una prueba, de tal forma que se empiece a resolver de la forma más simple y se progrese en su desarrollo mientras se sigue ejecutando dicha prueba.
 

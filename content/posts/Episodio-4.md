@@ -17,10 +17,10 @@ Una conversación muy entretenida, informativa y enriquecedora, no se lo pierdan
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
 
-<iframe src="https://player.vimeo.com/video/75962951?h=761fe11688" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/75962951?h=761fe11688" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/75962951" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound) from MakingDevs on Vimeo. </a>
 
-<iframe src="https://player.vimeo.com/video/75972109?h=43ad5096d5" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/75972109?h=43ad5096d5" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x04 - Erlang con Alvaro Videla(@old_sound)- Demo -  from MakingDevs on Vimeo. </a>
 
  >Se pueden suscribir al feed de ViveCodigo.org o encontrarnos en iTunes como: <a style="color:#3eb0ef;" href="https://podcasts.apple.com/ca/podcast/vivecodigo-org-videocast/id685052596" target="_blank"> ViveCodigo.org - VideoCast.</a>

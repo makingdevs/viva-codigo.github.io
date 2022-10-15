@@ -13,10 +13,10 @@ En esta ocasión un amigo ya conocido Christian Ramírez - @chrix2 Nos viene a p
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
 
-<iframe src="https://player.vimeo.com/video/74242590?h=089285d175" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/74242590?h=089285d175" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/74242590" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x02 - Relación, conexiones y aplicaciones del arte al testing from MakingDevs on Vimeo.</a>
 
-<iframe src="https://player.vimeo.com/video/74247508?h=32452a029c" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/74247508?h=32452a029c" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/makingdevs" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x02 - Testing Parte 2 from MakingDevs on Vimeo.</a>
 
  >Se pueden suscribir al feed de ViveCodigo.org o encontrarnos en iTunes como: <a style="color:#3eb0ef;" href="https://podcasts.apple.com/ca/podcast/vivecodigo-org-videocast/id685052596" target="_blank"> ViveCodigo.org - VideoCast.</a>

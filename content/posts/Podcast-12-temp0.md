@@ -14,9 +14,9 @@ tags:
 
 Queremos agradecer a los asistentes al Dojo por su participación y por sus resultados, y también por compartir sus soluciones con nosotros; aquí listamos a los desarrolladores del Dojo y la liga donde pueden encontrar el código que desarrollaron:
 
-<iframe src="https://player.vimeo.com/video/35331361?h=060adae466" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/35331361?h=060adae466" width="460" height="360" frameborder="0"></iframe>
 
-<iframe src="https://player.vimeo.com/video/35698652?h=de8cb72a35" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/35698652?h=de8cb72a35" width="460" height="360" frameborder="0"></iframe>
 
 + Theo Grip - <a target="_blank" href="https://twitter.com/tgrip" style="color:#3eb0ef;">@tgrip</a> - <a target="_blank" href="https://github.com/tgrip/CodingKata" style="color:#3eb0ef;"> CodingKata </a>
 

@@ -13,12 +13,12 @@ El desarrollo de videojuegos en México y en varias partes del mundo gracias a @
 
 ¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar, pronto mas capítulos de la temporada 01.
 
-<iframe src="https://player.vimeo.com/video/75350418?h=63a524698c" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/75350418?h=63a524698c" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/75350418" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x03 - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane from MakingDevs on Vimeo. </a>
 
 Detras de  Camaras de ViveCodigo.org
 
-<iframe src="https://player.vimeo.com/video/75350419?h=678846e8db" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/75350419?h=678846e8db" width="460" height="360" frameborder="0"></iframe>
 <a href="https://vimeo.com/75350419" target="_blank" style="color:#3eb0ef;"> ViveCodigo 01x03 - Detras de Camaras - Desarrollo de juegos en JoyBox con @JuanKaram y @mexinsane from MakingDevs on Vimeo. </a>
 
  >Se pueden suscribir al feed de ViveCodigo.org o encontrarnos en iTunes como: <a style="color:#3eb0ef;" href="https://podcasts.apple.com/ca/podcast/vivecodigo-org-videocast/id685052596" target="_blank"> ViveCodigo.org - VideoCast.</a>

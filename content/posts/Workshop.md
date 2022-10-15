@@ -20,6 +20,6 @@ tags:
 
 >¡Espero lo disfruten! y apreciamos mucho cualquier comentario que nos puedan dejar.
 
-<iframe src="https://player.vimeo.com/video/121086353?h=e2adc62963" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/121086353?h=e2adc62963" width="460" height="360" frameborder="0"></iframe>
 
 <a style="color: #3eb0ef;" href="https://vimeo.com/121086353" target="_blank">ViveCodigo - Workshop de VIm con Felipe Juarez @Sohjiro from MakingDevs on Vimeo </a>

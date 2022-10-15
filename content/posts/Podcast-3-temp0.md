@@ -15,9 +15,9 @@ Hablamos de la importancia de conocer las bases fundamentales del desarrollo web
 
 Nuevamente les haremos entrega de este podcast en dos versiones:
 
-<iframe src="https://player.vimeo.com/video/24452424?h=909fc98a2a" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/24452424?h=909fc98a2a" width="460" height="360" frameborder="0"></iframe>
 
-<iframe src="https://player.vimeo.com/video/24639833?h=7cd205b95f" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/24639833?h=7cd205b95f" width="460" height="360" frameborder="0"></iframe>
 
 Adicionalmente, ponemos a su disposición los archivos de video de las dos partes:
 

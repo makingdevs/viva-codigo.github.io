@@ -31,4 +31,4 @@ Se pueden suscribir al <a target="_blank" href="http://vivecodigo.org/feed.xml" 
 
 <b>Esperemos que sea de su agrado…</b>
 
-<iframe src="https://player.vimeo.com/video/22732462?h=28f1acec36" width="760" height="450" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/22732462?h=28f1acec36" width="460" height="360" frameborder="0"></iframe>
