@@ -15,8 +15,6 @@ paginate     = 10
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -27,7 +25,7 @@ paginate     = 10
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
   keywords = "homepage, blog"
-  images = [""]
+  images = ["/themes/hello-4s3ti/images/tn.png"]
 
 [taxonomies]
     category = "blog"
@@ -36,18 +34,18 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Making Devs"
+    title = "Viva Código"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "LEER OTRAS PUBLICACIONES"
 
     [languages.en.params.logo]
-      logoText = "Making Devs"
-      logoHomeLink = "/"
+      logoText = "Viva.Código"
+      logoHomeLink = "/posts"
     # or
     #
-    # path = "/img/your-example-logo.svg"
+    # path = "/posts"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
