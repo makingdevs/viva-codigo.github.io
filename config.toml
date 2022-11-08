@@ -1,5 +1,5 @@
 baseURL = 'https://3161-187-191-11-171.ngrok.io'
-title        = "My Posts"
+title        = "My Podcast"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
 paginate     = 10
@@ -23,9 +23,9 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
-  images = ["/themes/hello-4s3ti/images/tn.png"]
+  description = "Blog de Making Devs"
+  keywords = ""
+  images = ["/themes/hello-4s3ti/images/logoMD.png"]
 
 [taxonomies]
     category = "blog"
@@ -41,7 +41,7 @@ paginate     = 10
     readOtherPosts = "LEER OTRAS PUBLICACIONES"
 
     [languages.en.params.logo]
-      logoText = "Viva.Código"
+      logoText = "Vive Código - Podcast"
       logoHomeLink = "/posts"
     # or
     #
@@ -51,5 +51,5 @@ paginate     = 10
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
-    name       = "Posts"
+    name       = "Podcast"
     url        = "/posts"
