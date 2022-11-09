@@ -24,7 +24,7 @@ paginate     = 10
 
   # Metadata mostly used in document's head
   description = "Blog de Making Devs"
-  keywords = ""
+  keywords = "Podcast"
   images = ["/themes/hello-4s3ti/images/logoMD.png"]
 
 [taxonomies]
@@ -36,7 +36,7 @@ paginate     = 10
   [languages.en]
     title = "Viva Código"
     subtitle = ""
-    keywords = ""
+    keywords = "Podcast"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "LEER OTRAS PUBLICACIONES"
 
