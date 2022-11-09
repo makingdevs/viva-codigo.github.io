@@ -20,7 +20,7 @@ Nos habla sobre cuales son las claves del desarrollo de una aplicación móvil p
 
 Un tema muy interesante sobre el desarrollo para este tipo de plataformas.
 
-<img src="http://vivecodigo.org/images/uno.jpg" style="width: 23%;"></img> <img src="http://vivecodigo.org/images/dos.jpg" style="width: 23%;"></img>
+<img src="/uno.jpeg" style="width: 23%;"></img></img> <img src="/dos.jpeg" style="width: 23%;"></img>
 
 Les hacemos la cordial invitación a que se suscriban al feed del Videocast de ViveCodigo.org o encontrarnos en iTunes como: ViveCodigo.org - VideoCast.
 

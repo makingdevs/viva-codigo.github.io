@@ -17,8 +17,8 @@ Emacs es un manipulador de texto pero mas que un simple manipulador de texto, po
 
 Gnu Emacs es obviamente parte del proyecto<a href="https://www.gnu.org/" target="_blank" style="color:#3eb0ef;"> GNU </a>y la versión más popular de Emacs con una gran actividad en su desarrollo. El manual de GNU Emacs lo describe como “un editor extensible, personalizable, documentado y de tiempo real, su enorme conjunto de características está orientado a ayudar el usuario a manipular gran cantidad de texto ademas de ser todo un ambiente de desarrollo como nos explica Alcides Flores en este capitulo.
 
-<img src="http://vivecodigo.org/images/uno.jpg" style="width: 23%;"></img>
-<img src="http://vivecodigo.org/images/dos.jpg" style="width: 23%;"></img>
+<img src="/uno.jpeg" style="width: 23%;"></img>
+<img src="/dos.jpeg" style="width: 23%;"></img>
 
 >Les hacemos la cordial invitación a que se suscriban al feed del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a style="color: #3eb0ef;" href="https://podcasts.apple.com" target="_blank"> ViveCodigo.org - VideoCast.</a>
 

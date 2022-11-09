@@ -20,8 +20,8 @@ Nos da ejemplos muy interesantes el cual como podemos generar elementos para est
 
 En esta ocasión les tenemos una sorpresa para todos nuestros seguidores. Son dos libros electrónicos de Practical Data Analysis los cuales se podrán ganar participando con nosotros. La mecánica es muy sencilla, solo tiene que dejarnos un comentario en donde nos escriban sobre su Data Project, los dos mejores serán acreedores de un libro.
 
-<img src="http://vivecodigo.org/images/uno.jpg" style="width: 23%;"></img>
-<img src="http://vivecodigo.org/images/dos.jpg" style="width: 23%;"></img>
+<img src="/uno.jpeg" style="width: 23%;"></img>
+<img src="/dos.jpeg" style="width: 23%;"></img>
 
 >Les hacemos la cordial invitación a que se suscriban al feed del Videocast de ViveCodigo.org o encontrarnos en iTunes como: <a style="color: #3eb0ef;" href="https://podcasts.apple.com" target="_blank"> ViveCodigo.org - VideoCast.</a>
 
