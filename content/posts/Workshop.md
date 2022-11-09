@@ -11,8 +11,8 @@ tags:
 
 >En esta ocasión Felipe Juarez @Sohjiro nos hablara de VIm, un editor hecho por programadores para programadores,  para facilitar la programación, también nos dirá de los movimientos básicos y fundamentales para la manipulación, edición e inserción de texto así como moverse sobre los diferentes directorios, buffers y ventanas y la forma en que los entornos de desarrollo integrados, pueden editar el código fuente además llamar a un compilador externo e interpretar sus resultados.
 
-<img src="http://vivecodigo.org/images/uno.jpg" style="width: 23%;"></img>
-<img src="http://vivecodigo.org/images/dos.jpg" style="width: 23%;"></img>
+<img src="/uno.jpeg" style="width: 23%;"></img>
+<img src="/dos.jpeg" style="width: 23%;"></img>
 
 >ViveCodigo - Workshop de VIm con Felipe Juarez @SohjiroLes hacemos la cordial invitación a que se suscriban al feed del Videocast de ViveCodigo.org o encontrarnos en iTunes como: ViveCodigo.org - VideoCast.
 
