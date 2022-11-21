@@ -25,7 +25,7 @@ paginate     = 10
   # Metadata mostly used in document's head
   description = "Blog de Making Devs"
   keywords = "Podcast"
-  images = ["/themes/hello-4s3ti/images/logoMD.png"]
+  images = ["/static/logoMD.png"]
 
 [taxonomies]
     category = "blog"
