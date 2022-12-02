@@ -1,4 +1,4 @@
-baseURL = 'https://stellular-malasada-5a5370.netlify.app'
+baseURL = 'https://blog.makingdevs.com/viva_codigo_public/'
 title        = "My Podcast"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
