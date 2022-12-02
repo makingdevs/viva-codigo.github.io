@@ -42,7 +42,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "Vive Código - Podcast"
-      logoHomeLink = "/posts"
+      logoHomeLink = "/viva_codigo_public/posts/"
     # or
     #
     # path = "/posts"
