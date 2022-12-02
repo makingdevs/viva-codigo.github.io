@@ -1,4 +1,4 @@
-baseURL = 'https://3161-187-191-11-171.ngrok.io'
+baseURL = 'https://stellular-malasada-5a5370.netlify.app'
 title        = "My Podcast"
 languageCode = "en-us"
 theme        = "hello-4s3ti"
